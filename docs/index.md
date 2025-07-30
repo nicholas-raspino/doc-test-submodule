@@ -7,7 +7,7 @@ summary: This page was created from a markdown file
 
 | Name               | Role                       | Contact Information |
 |--------------------|----------------------------| ------------------- |
-| Contact 1          | VP of Some Important Thing | 123-456-7890        |
-| Contact 2          | Senior Cloud Peon          | 123-456-7890        |
+| Contact 1          | Cloud Engineer 1           | 123-456-7890        |
+| Contact 2          | Cloud Engineer 2           | 123-456-7890        |
 
 
